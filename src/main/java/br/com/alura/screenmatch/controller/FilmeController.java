@@ -32,7 +32,7 @@ que é uma Array de objetos, que são do tipo Filme, serão enviados para a pág
         return "filmes/listagem";
     }
 
-
+/* Através da palavra reservada redirect do Spring, redireciona-se a requisição para um outro método.*/
     @PostMapping
     public  String cadastraFilme(DadosCadastroFilme dados) {
         var filme = new Filme(dados);
