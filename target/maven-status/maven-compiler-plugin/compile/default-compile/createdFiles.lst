@@ -1,0 +1,6 @@
+br\com\alura\screenmatch\ScreenmatchApplication.class
+br\com\alura\screenmatch\domain\filme\Filme.class
+br\com\alura\screenmatch\domain\filme\DadosAlteracaoFilme.class
+br\com\alura\screenmatch\controller\FilmeController.class
+br\com\alura\screenmatch\domain\filme\FilmeRepository.class
+br\com\alura\screenmatch\domain\filme\DadosCadastroFilme.class
